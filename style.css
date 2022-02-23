@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#top{
+    display: flex;    
+}
+.top-part{
+    padding: 10%;
+}
+span{
+    color: #f8ab38;
+}
+.top-part h1{
+    border-left: 5px solid tomato;
+    border-radius: 5px;
+    
+    
+}
+.top-part img{
+    width: 60%;
+    margin-left: 30%;
+}
+button{
+    background-color: rgb(236, 98, 121);
+    color: white;
+    border-radius:5px;
+    padding:5px 10px;
+    
+}
